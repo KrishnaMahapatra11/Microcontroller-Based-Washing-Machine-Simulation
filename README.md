@@ -1,6 +1,6 @@
- **Microcontroller-Based Washing Machine Simulation** 
 
----
+
+
 
 # Microcontroller-Based Washing Machine Simulation
 
