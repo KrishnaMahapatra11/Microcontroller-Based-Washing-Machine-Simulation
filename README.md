@@ -2,7 +2,7 @@
 
 
 
-# Microcontroller-Based Washing Machine Simulation
+# Automatic Washing Machine Simulation
 
 ## Project Overview
 
